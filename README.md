@@ -1,4 +1,4 @@
-# CMPG323_250230555_HE1 Development
+# CMPG323_250230555_HE1 Production
 CMPG 323 Homework Exercise 1 25023055
 
 This short scrupt can be very powerfull to automove log files on a linux machine to another folder on another server. 
